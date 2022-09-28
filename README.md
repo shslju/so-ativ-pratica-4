@@ -3,3 +3,4 @@ Projeto de SO
 ## Equipe
 - Mario Machado Mathias
 - Alexandre Nogueira Bezerra
+- Francisca Gardenia
